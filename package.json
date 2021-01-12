@@ -1,0 +1,25 @@
+{
+    "name": "api-request",
+    "version": "1.0.0",
+    "description": "The requests are perform to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API using [Axios](https://www.npmjs.com/package/axios).",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iAlan02/api-request.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iAlan02/api-request/issues"
+    },
+    "homepage": "https://github.com/iAlan02/api-request#readme"
+}
