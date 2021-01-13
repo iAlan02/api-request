@@ -25,3 +25,9 @@ DELETE method is used to delete a resource from the server.
 ## QUERY
 
 A query string is a part of a uniform resource locator (URL) that assigns values to specified parameters.
+
+**CREATE AN .env FILE WITH THE FOLLOWING FIELDS TO RUN THE CODE CORRECTLY**
+
+```
+URL = https://jsonplaceholder.typicode.com/
+```
